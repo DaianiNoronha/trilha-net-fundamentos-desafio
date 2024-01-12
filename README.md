@@ -44,6 +44,6 @@ Como proposta de melhoria foi adicionado uma nova classe "Veiculo" para o armaze
 
 Esse projeto foi desenvolvido durante a Trilha .NET - Fundamentos da DIO com as tecnologias:
 
-C#
-.NET
-Git e Github
+- C#
+- .NET
+- Git e Github
